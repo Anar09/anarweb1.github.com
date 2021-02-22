@@ -1,0 +1,15 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.backgrounds{
+	width: 626px;
+	height: 417px;
+	background-image: url("ar..jpg");
+	background-color: #cd87d6;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+	overflow-y: auto;
+}
